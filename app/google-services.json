@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "177441365632",
+    "firebase_url": "https://smartmeter-21071.firebaseio.com",
+    "project_id": "smartmeter-21071",
+    "storage_bucket": "smartmeter-21071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177441365632:android:118ad27b8e9a305a",
+        "android_client_info": {
+          "package_name": "com.vincent.smartenergymeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177441365632-dqkjbadp6o9let98p7crmjugq1oa4a3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByNqf4BcKcTAL0RQQRn5LEkk6GPdB9aCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

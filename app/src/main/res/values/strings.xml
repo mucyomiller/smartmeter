@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Smart Meter</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full Names</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER NOW</string>
+    <string name="btn_link_to_register"> Sign up Now!</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">logout</string>
+    <string name="name">Fullname</string>
+    <string name="add_token">Add Token</string>
+    <string name="add_meter">Add Meter</string>
+    <string name="action_save">Add</string>
+    <string name="there_is_no_data">No Meter Data</string>
+    <string name="hint_re_password">Re-Type Password</string>
+    <string-array name="menu">
+        <item>Update</item>
+        <item>Delete</item>
+    </string-array>
+</resources>
